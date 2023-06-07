@@ -1,2 +1,2 @@
 # CI/CD Java Application using Jenkins, Nexus, Sonarqube, AWS ECR & ECS
-![CompleteCICDProject!](https://lucid.app/publicSegments/view/0c183bd6-73f4-4547-93e1-5246db5e863c/image.png) 
+![CompleteCICDProject!]https://miro.medium.com/v2/resize:fit:1400/format:webp/0*MPGuGGnT5BYaaDRi.png
