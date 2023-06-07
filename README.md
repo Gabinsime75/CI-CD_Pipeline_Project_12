@@ -1,7 +1,7 @@
-# CI/CD Java Application using Jenkins, Nexus, Sonarqube, AWS ECR & ECS
+# Project Architecture
 ![image](https://github.com/Gabinsime75/CI-CD_Pipeline_Project_12/assets/115108532/8a3b14d9-cad6-4bf7-b8b4-47b43f004575)
 
-###### PROJECT TOOLBOX
+##### PROJECT TOOLBOX
 - [Git](https://git-scm.com/) Git will be used to manage our application source code.
 - [Github](https://github.com/) Github is a free and open source distributed VCS designed to handle everything from small to very large projects with speed and efficiency
 - [Jenkins](https://www.jenkins.io/) Jenkins is an open source automation CI tool which enables developers around the world to reliably build, test, and deploy their software
