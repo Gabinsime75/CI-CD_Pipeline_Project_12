@@ -13,3 +13,5 @@
 - [Docker](https://docs.docker.com/get-docker/) Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly
 - [ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html) Amazon Elastic Container Registry (Amazon ECR) is an AWS managed container image registry service that is secure, scalable, and reliable.
 - [ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) Amazon Elastic Container Service (Amazon ECS) is a fully managed container orchestration service that helps you easily deploy, manage, and scale containerized applications.
+
+# Environement Setup
